@@ -122,5 +122,3 @@ Install the [WorkflowLearning GitHub App](https://github.com/apps/workflowlearni
 
 ## Step 7 - Canvas
 Answer the questions in the [Canvas](https://boisestatecanvas.instructure.com/) assignment.
-
-This is for making a commit
